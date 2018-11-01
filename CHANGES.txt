@@ -1,0 +1,7 @@
+Change log for xmpppy
+=====================
+
+0.5.1-zeit1 (unreleased)
+------------------------
+
+- Release from mrDoctorWho/xmpppy fork to be compatible with newer python versions.
