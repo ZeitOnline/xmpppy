@@ -1,6 +1,12 @@
 Change log for xmpppy
 =====================
 
+0.5.1-zeit2 (unreleased)
+------------------------
+
+- Nothing changed yet.
+
+
 0.5.1-zeit1 (2018-11-01)
 ------------------------
 
